@@ -14,7 +14,7 @@ git clone https://github.com/scienmanas/Nokia-Snake-Game
 ## Navigate to Directory
 Change your working directory to the cloned repository:
 ```bash
-cd snake-game
+cd Nokia-Snake-Game
 ```
 ## Run the Game
 Execute the Python script to start the game:
